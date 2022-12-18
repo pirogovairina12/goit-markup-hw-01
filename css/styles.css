@@ -1,0 +1,116 @@
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+
+.site-body {
+font-family: "Open Sans", sans-serif;
+    color: #2E2F42
+}
+
+.header {
+}
+.header-navigation {
+}
+.heander-logo {
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+font-weight: 600;
+font-size: 16px;
+line-height: 1,5px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.header-link:hover,
+.header-link:focus {
+    color: #4D5AE5
+}
+
+.header-links {
+}
+
+.header-email {
+font-weight: 400;
+font-size: 16px;
+line-height: 1,5px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.header-tel {
+font-weight: 400;
+font-size: 16px;
+line-height: 1,5px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.hero {
+background-color: #2E2F42;
+}
+
+.hero-titel {
+font-weight: 600;
+font-size: 56px;
+line-height: 1,07px;
+text-align: center;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+
+}
+.header-btn {
+font-weight: 600;
+font-size: 16px;
+line-height: 1,2;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+cursor: pointer;
+}
+.hero-pre {
+}
+.hero-pre-titel {
+font-weight: 600;
+font-size: 36px;
+line-height: 1,1;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+.hero-pro-titel {
+font-weight: 400;
+font-size: 16px;
+line-height: 1,5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.hero-pri-titel {
+font-weight: 500;
+font-size: 20px;
+line-height: 1,2;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.hero-after {
+background: #F4F4FD;
+}
+.footer {
+    background: #2E2F42;
+}
+.heander-logo {
+
+}
+.footer-titel {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1,5;
+letter-spacing: 0.02em;
+color: #E7E9FC;
+}
